@@ -1,0 +1,3 @@
+abc.js
+package.json
+error.log
